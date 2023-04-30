@@ -1,0 +1,9 @@
+
+streamlit
+streamlit-echarts==0.1.0
+
+pyecharts==1.9.0
+
+numpy
+pandas
+PIL
