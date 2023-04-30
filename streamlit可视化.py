@@ -3,8 +3,6 @@ import streamlit_echarts as ste
 import streamlit as st
 import pandas as pd
 from PIL import Image
-import numpy as np
-import plotly.express
 from pyecharts import options as opts
 from pyecharts.charts import Bar,Map,Line,Liquid,Scatter
 from pyecharts.commons.utils import JsCode
