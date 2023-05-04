@@ -76,7 +76,7 @@ scatter=(
 
 liqud=(
     Liquid()
-    .add("lq",[0.112],
+    .add("产值增比",[0.112],
          label_opts=opts.LabelOpts(
              font_size=30,
              formatter=JsCode(
